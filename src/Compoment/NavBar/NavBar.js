@@ -17,7 +17,7 @@ const Navbar = (props) => {
         <>
             <Nav>
                 <NavBarContainer>
-                    <NavLogo to="/">SEMMOZHI TAMIL MANDRAM</NavLogo>
+                    <NavLogo to="/SemmozhiTamilMandrum">SEMMOZHI TAMIL MANDRAM</NavLogo>
                     <MobileIcon onClick={props.toggle}>
                         <FaBars />
                     </MobileIcon>
@@ -52,7 +52,7 @@ const Navbar = (props) => {
                         </NavItem>
                         <NavItem>
                             <NavLinksRouter
-                                to="/"
+                                to="/SemmozhiTamilMandrum"
                                 duration={500}
                                 exact="true"
                                 offset={-80}

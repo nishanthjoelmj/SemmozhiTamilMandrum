@@ -7,7 +7,7 @@ function App() {
     <Router>
       <div className="App">
         <Switch>
-          <Route path="/" component={HomePage} exact />
+          <Route path="/SemmozhiTamilMandrum" component={HomePage} exact />
         </Switch>
       </div>
     </Router>

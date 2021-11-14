@@ -16,7 +16,7 @@ import {
     FootertextHide,
 } from "./FooterStyle";
 import { FaInstagram, FaGithub } from "react-icons/fa";
-import { SiDiscord, SiGmail } from "react-icons/si";
+import { SiGmail } from "react-icons/si";
 const Footers = () => {
     return (
         <FooterConatiner id="contact">
@@ -43,7 +43,7 @@ const Footers = () => {
                                 {" "}
                                 Instagram
                             </Footertext>
-                            <FootertextHide to="/">Vit </FootertextHide>
+                            <FootertextHide to="/SemmozhiTamilMandrum">Vit </FootertextHide>
                         </FooterItems>
 
                         <FooterItems>
@@ -70,7 +70,7 @@ const Footers = () => {
                                 {" "}
                                 Meta{" "}
                             </Footertext>
-                            <FootertextHide to="/">Vit </FootertextHide>
+                            <FootertextHide to="/SemmozhiTamilMandrum">Vit </FootertextHide>
                         </FooterItems>
                     </FooterItemsWrapper>
 
