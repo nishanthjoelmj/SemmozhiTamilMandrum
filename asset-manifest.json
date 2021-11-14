@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/SemmozhiTamilMandrum/static/css/main.769b2093.chunk.css",
+    "main.js": "/SemmozhiTamilMandrum/static/js/main.60a6676e.chunk.js",
+    "main.js.map": "/SemmozhiTamilMandrum/static/js/main.60a6676e.chunk.js.map",
+    "runtime-main.js": "/SemmozhiTamilMandrum/static/js/runtime-main.e5e9c4e3.js",
+    "runtime-main.js.map": "/SemmozhiTamilMandrum/static/js/runtime-main.e5e9c4e3.js.map",
+    "static/js/2.4675a49c.chunk.js": "/SemmozhiTamilMandrum/static/js/2.4675a49c.chunk.js",
+    "static/js/2.4675a49c.chunk.js.map": "/SemmozhiTamilMandrum/static/js/2.4675a49c.chunk.js.map",
+    "index.html": "/SemmozhiTamilMandrum/index.html",
+    "static/css/main.769b2093.chunk.css.map": "/SemmozhiTamilMandrum/static/css/main.769b2093.chunk.css.map",
+    "static/js/2.4675a49c.chunk.js.LICENSE.txt": "/SemmozhiTamilMandrum/static/js/2.4675a49c.chunk.js.LICENSE.txt",
+    "static/media/cmsoon.cc63d65e.jpg": "/SemmozhiTamilMandrum/static/media/cmsoon.cc63d65e.jpg",
+    "static/media/logo.3e0ab00b.png": "/SemmozhiTamilMandrum/static/media/logo.3e0ab00b.png",
+    "static/media/q1.6f08eca4.jpg": "/SemmozhiTamilMandrum/static/media/q1.6f08eca4.jpg",
+    "static/media/wallpaper.d1223856.mp4": "/SemmozhiTamilMandrum/static/media/wallpaper.d1223856.mp4"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e5e9c4e3.js",
+    "static/js/2.4675a49c.chunk.js",
+    "static/css/main.769b2093.chunk.css",
+    "static/js/main.60a6676e.chunk.js"
+  ]
+}
