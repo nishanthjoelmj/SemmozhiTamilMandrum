@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/SemmozhiTamilMandrum/static/css/main.769b2093.chunk.css",
-    "main.js": "/SemmozhiTamilMandrum/static/js/main.60a6676e.chunk.js",
-    "main.js.map": "/SemmozhiTamilMandrum/static/js/main.60a6676e.chunk.js.map",
+    "main.js": "/SemmozhiTamilMandrum/static/js/main.9f2460d6.chunk.js",
+    "main.js.map": "/SemmozhiTamilMandrum/static/js/main.9f2460d6.chunk.js.map",
     "runtime-main.js": "/SemmozhiTamilMandrum/static/js/runtime-main.e5e9c4e3.js",
     "runtime-main.js.map": "/SemmozhiTamilMandrum/static/js/runtime-main.e5e9c4e3.js.map",
     "static/js/2.4675a49c.chunk.js": "/SemmozhiTamilMandrum/static/js/2.4675a49c.chunk.js",
@@ -19,6 +19,6 @@
     "static/js/runtime-main.e5e9c4e3.js",
     "static/js/2.4675a49c.chunk.js",
     "static/css/main.769b2093.chunk.css",
-    "static/js/main.60a6676e.chunk.js"
+    "static/js/main.9f2460d6.chunk.js"
   ]
 }
