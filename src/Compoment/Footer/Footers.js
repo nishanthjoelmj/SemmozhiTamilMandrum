@@ -16,7 +16,8 @@ import {
     FootertextHide,
 } from "./FooterStyle";
 import { FaInstagram, FaGithub } from "react-icons/fa";
-import { SiDiscord, SiGmail } from "react-icons/si";
+import { SiGmail } from "react-icons/si";
+
 const Footers = () => {
     return (
         <FooterConatiner id="contact">
