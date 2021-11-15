@@ -13,13 +13,14 @@ import { FaBars } from "react-icons/fa";
 
 let greengb = "true";
 const Navbar = (props) => {
+
     return (
         <>
             <Nav>
                 <NavBarContainer>
                     <NavLogo to="/">SEMMOZHI TAMIL MANDRAM</NavLogo>
                     <MobileIcon onClick={props.toggle}>
-                        <FaBars />
+                        <FaBars style={{ color: "#000" }} />
                     </MobileIcon>
                     <NavMenu>
                         <NavItem>

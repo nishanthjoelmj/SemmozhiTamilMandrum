@@ -10,12 +10,10 @@ import {
     Heading,
     Subtitle,
     ImgWrap,
-    Img,
     EventSwrapper,
     LinkWrapper,
     ExternalLink,
 } from "./AboutStyled";
-import "./Youtubes.css";
 import Limg from "../../Files/logo.png"
 const About = ({
     id,
@@ -26,14 +24,12 @@ const About = ({
     headline,
     darkText,
     description,
-    alt,
     eventSwapper,
     dates,
     venu,
     Linkdisc,
     eventLinks,
     headingcolor,
-    logos,
 }) => {
     return (
         <>
@@ -63,7 +59,7 @@ const About = ({
                                 <div id="Youtubeplayerac">
                                     <img src={Limg} width="350px" height="350px" alt="Logo" />
                                 </div>
-                                <Img src={logos} alt={alt} />
+
                             </ImgWrap>
                         </Column2>
                     </InfoRow>
